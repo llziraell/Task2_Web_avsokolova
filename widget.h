@@ -33,6 +33,7 @@ class Widget : public QWidget {
   QTimer *ellipseMoveTimer_;
   QRect windowRect_;
 
+
   QPoint cursorPosition_;
   QPoint ellipsePosition_;
 
